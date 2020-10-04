@@ -31,6 +31,7 @@
 - [Pretam Chandra]
 - [Kritika Yadav]
 - [Richard Young](https://github.com/Richard-Young)
+- [K. Harishankar](https://github.com/Haritronic909)
 - [zelkor](https://github.com/zelkor)
 - [Rohan Kashiviswanathan](https://github.com/rohkash)
 - [Hasan Haider](https://github.com/hasan-haider)
